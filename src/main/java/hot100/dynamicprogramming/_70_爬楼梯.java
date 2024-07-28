@@ -1,7 +1,7 @@
 package hot100.dynamicprogramming;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-07-21 10:11
  */
 public class _70_爬楼梯 {

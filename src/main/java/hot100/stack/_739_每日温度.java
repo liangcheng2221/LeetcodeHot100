@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Stack;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-05 10:15
  */
 public class _739_每日温度 {

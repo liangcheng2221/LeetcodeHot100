@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-04 12:43
  */
 public class _20_有效括号 {

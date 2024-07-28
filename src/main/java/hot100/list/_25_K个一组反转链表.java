@@ -1,7 +1,7 @@
 package hot100.list;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-03 8:39
  */
 public class _25_K个一组反转链表 {

@@ -3,7 +3,7 @@ package hot100.backtracking;
 import java.util.*;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-09 9:48
  */
 public class _51_N皇后 {

@@ -1,7 +1,7 @@
 package hot100.tree;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-28 9:15
  */
 public class _104_二叉树的最大深度 {

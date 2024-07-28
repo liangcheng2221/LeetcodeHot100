@@ -3,7 +3,7 @@ package hot100.stack;
 import java.util.Stack;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-04 13:01
  */
 public class _155_最小栈 {

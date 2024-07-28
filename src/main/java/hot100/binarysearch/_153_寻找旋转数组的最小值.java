@@ -1,7 +1,7 @@
 package hot100.binarysearch;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-02 5:56
  */
 public class _153_寻找旋转数组的最小值 {

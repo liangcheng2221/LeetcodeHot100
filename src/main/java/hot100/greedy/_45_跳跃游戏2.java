@@ -1,7 +1,7 @@
 package hot100.greedy;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-07-12 9:55
  */
 public class _45_跳跃游戏2 {

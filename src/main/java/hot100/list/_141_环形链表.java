@@ -1,7 +1,7 @@
 package hot100.list;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-27 10:45
  */
 public class _141_环形链表 {

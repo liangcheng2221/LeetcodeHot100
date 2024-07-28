@@ -1,7 +1,7 @@
 package hot100.binarysearch;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-16 9:17
  */
 public class _34_在排序数组中查找元素的第一个和最后一个位置 {

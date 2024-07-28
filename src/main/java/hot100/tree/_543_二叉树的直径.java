@@ -1,7 +1,7 @@
 package hot100.tree;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-08 9:23
  */
 public class _543_二叉树的直径 {

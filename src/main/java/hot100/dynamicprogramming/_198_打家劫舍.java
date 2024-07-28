@@ -3,7 +3,7 @@ package hot100.dynamicprogramming;
 import java.util.Arrays;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-07-27 10:23
  */
 public class _198_打家劫舍 {

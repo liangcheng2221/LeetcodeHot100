@@ -5,7 +5,7 @@ import org.omg.PortableInterceptor.INACTIVE;
 import java.util.HashMap;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-07 8:33
  */
 public class _146_LRU缓存 {

@@ -1,7 +1,7 @@
 package hot100.arraysimple;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-06 8:49
  */
 public class _53_最大子数组和 {

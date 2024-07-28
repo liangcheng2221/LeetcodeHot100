@@ -1,7 +1,7 @@
 package hot100.tree;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-10 8:05
  * todo 平衡二叉树的理解,这个递归也不是很好理解
  */

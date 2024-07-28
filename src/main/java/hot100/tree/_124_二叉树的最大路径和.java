@@ -1,7 +1,7 @@
 package hot100.tree;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-14 10:12
  */
 public class _124_二叉树的最大路径和 {

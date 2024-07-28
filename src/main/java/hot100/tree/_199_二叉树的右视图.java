@@ -6,7 +6,7 @@ import java.util.Deque;
 import java.util.List;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-11 10:43
  */
 public class _199_二叉树的右视图 {

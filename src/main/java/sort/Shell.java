@@ -3,7 +3,7 @@ package sort;
 import cn.hutool.core.util.RandomUtil;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-08 10:13
  */
 public class Shell {

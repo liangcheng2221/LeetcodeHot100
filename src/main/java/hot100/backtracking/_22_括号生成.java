@@ -6,7 +6,7 @@ import java.util.Deque;
 import java.util.List;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-07 10:06
  */
 public class _22_括号生成 {

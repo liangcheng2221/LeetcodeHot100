@@ -3,7 +3,7 @@ package hot100.stack;
 import java.util.Stack;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-04 13:13
  */
 public class _394_字符串解码 {

@@ -1,7 +1,7 @@
 package hot100.tree;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-08 8:41
  */
 public class _101_对称二叉树 {

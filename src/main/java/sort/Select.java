@@ -1,7 +1,7 @@
 package sort;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-07 11:31
  */
 public class Select {

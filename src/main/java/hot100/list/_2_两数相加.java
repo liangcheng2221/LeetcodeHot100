@@ -1,7 +1,7 @@
 package hot100.list;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-01 21:50
  */
 public class _2_两数相加 {

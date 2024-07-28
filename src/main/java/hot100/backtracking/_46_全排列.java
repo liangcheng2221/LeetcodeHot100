@@ -3,7 +3,7 @@ package hot100.backtracking;
 import java.util.*;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-25 10:13
  */
 public class _46_全排列 {

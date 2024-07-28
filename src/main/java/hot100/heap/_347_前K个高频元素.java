@@ -3,7 +3,7 @@ package hot100.heap;
 import java.util.*;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-11 9:53
  */
 public class _347_前K个高频元素 {

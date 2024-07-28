@@ -1,7 +1,7 @@
 package hot100.binarysearch;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-16 8:59
  */
 public class _73_搜索二维矩阵 {

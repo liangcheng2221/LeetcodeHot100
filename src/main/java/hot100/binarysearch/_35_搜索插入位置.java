@@ -1,7 +1,7 @@
 package hot100.binarysearch;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-16 8:16
  */
 public class _35_搜索插入位置 {

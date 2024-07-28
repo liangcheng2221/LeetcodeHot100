@@ -1,7 +1,7 @@
 package hot100.graph;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-24 9:12
  */
 public class _208_实现前缀树 {

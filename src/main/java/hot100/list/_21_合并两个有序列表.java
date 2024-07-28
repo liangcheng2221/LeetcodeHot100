@@ -3,7 +3,7 @@ package hot100.list;
 import java.util.List;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-05-01 21:40
  */
 public class _21_合并两个有序列表 {

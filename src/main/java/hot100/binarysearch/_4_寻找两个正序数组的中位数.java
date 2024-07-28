@@ -1,7 +1,7 @@
 package hot100.binarysearch;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-06-03 10:26
  */
 public class _4_寻找两个正序数组的中位数 {

@@ -3,7 +3,7 @@ package hot100.greedy;
 import java.util.Stack;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-07-12 8:47
  */
 public class _121_买卖股票的最佳时机 {

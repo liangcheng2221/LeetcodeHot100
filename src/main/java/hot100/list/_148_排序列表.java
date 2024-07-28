@@ -3,7 +3,7 @@ package hot100.list;
 import java.util.Arrays;
 
 /**
- * @author yinjie
+ * @author <a href="https://github.com/liangcheng2221">yinjie</a>
  * @date 2024-04-07 7:26
  */
 public class _148_排序列表 {
